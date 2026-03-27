@@ -107,7 +107,7 @@ python Scripts/app.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Bhavya Patela**
-Data Scientist
-📧 Email: bhavyapatela100@gmail.com
+**Bhavya Patela** <br>
+💼 Data Analyst <br>
+📧 Email: bhavyapatela100@gmail.com <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-patela-526a38322/)
