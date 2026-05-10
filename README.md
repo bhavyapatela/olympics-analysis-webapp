@@ -109,5 +109,5 @@ python Scripts/app.py
 
 **Bhavya Patela** <br>
 💼 Data Analyst <br>
-📧 Email: bhavyapatela100@gmail.com <br>
+📧 Email: bhavyaatwork2026@gmail.com <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-patela-526a38322/)
